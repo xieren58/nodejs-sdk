@@ -6,4 +6,5 @@ module.exports = {
     rs: require(libpath + '/rs.js'),
     img: require(libpath + '/img.js'),
     auth: require(libpath + '/auth.js'),
+    util: require(libpath + '/util.js')
 };
